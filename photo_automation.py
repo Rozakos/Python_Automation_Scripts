@@ -17,3 +17,4 @@ for root, dirs, files in os.walk(directory_path):
             print(f"  {image}")
 
 print("\nDone listing all images.")
+print("Github Test 2")
